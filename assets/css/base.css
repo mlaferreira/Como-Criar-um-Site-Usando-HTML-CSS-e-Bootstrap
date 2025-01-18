@@ -141,4 +141,9 @@ body{
     border-radius: 50%;
     margin: 0 10px;
 }
+.user-details{
+    display: inline-block;
+    font-size: 12px;
+    
+}
 
