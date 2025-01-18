@@ -61,5 +61,17 @@ body{
 .bootom-img{
     width: 100%;
 }
+/*---------SERVICES SECTION-------------*/
+#services{
+    padding: 80px 0;
+}
+.service-img{
+    width: 100px;
+    margin-top: 20px;
+}
+.services{
+    padding: 20px;
+    
+}
 
 
