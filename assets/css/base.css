@@ -144,6 +144,15 @@ body{
 .user-details{
     display: inline-block;
     font-size: 12px;
-    
-}
 
+}
+/*---------SOCIAL-MEDIA SECTION-------------*/
+#social-media{
+    background: #f8f9fa;
+    padding: 100px 0;
+}
+#social-media p{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
